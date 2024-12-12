@@ -12,7 +12,7 @@ Invoke-WebRequest 'https://raw.githubusercontent.com/git-package/sorting-algorit
 Click [stagesort](https://git-package.github.io/sorting-algorithms/stagesort.cpp) to install stagesort or use the bash command below.
 
 ```bash
-Invoke-WebRequest 'https://raw.githubusercontent.com/git-package/sorting-algorithms/main/stagesort.cpp' -OutFile ./bogosort.cpp
+Invoke-WebRequest 'https://raw.githubusercontent.com/git-package/sorting-algorithms/main/stagesort.cpp' -OutFile ./stagesort.cpp
 ```
 
 ## How to use
