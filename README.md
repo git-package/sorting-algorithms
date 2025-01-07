@@ -1,4 +1,3 @@
-# Sorting Algorithms
 
 These are my sorting algorithms. I built these because I am learning c++. I made stagesort myself but im not sure if there is something similar out there.
 
